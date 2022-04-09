@@ -1,0 +1,23 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Systema to Taekwondo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inclitoleo/begin-node.git"
+  },
+  "author": "Leonardo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inclitoleo/begin-node/issues"
+  },
+  "homepage": "https://github.com/inclitoleo/begin-node#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
